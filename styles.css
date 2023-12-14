@@ -1,0 +1,106 @@
+/*   CSS Part 1 */
+
+body {
+    background-color: #67BE4D;
+    text-align: -webkit-center;
+    margin-top: 100px;
+
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #fff;
+    width: 40%;
+    padding: 20px;
+}
+input,button {
+    margin-bottom: 10px;
+    height: 35px;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+button {
+    background-color: #00B242;
+    color: white;
+}
+#message {
+    color: red;
+    align-self:center;
+}
+.register-text{
+    align-self: center;
+}
+a,h1 {
+    color: #00B242;
+}
+/* __________________________________________________________________________________________ */
+
+/* CSS Part 2  */
+
+/* body{
+    text-align: -webkit-center;
+}
+.toDo{
+    text-align: center;
+    background-color: #ececec;;
+    width: 50%;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+h1{
+    color: #242482;
+}
+#add , #task {
+    margin-bottom: 10px;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 1px;
+}
+#task {
+    width: 300px;
+}
+#add {
+    width: 100px;
+    background-color: #242482;
+    color: white;
+}
+#added-tasks{
+    background-color: rgb(122, 151, 151);
+}
+li{
+    
+    display: flex;
+    height: 50px;
+    border-bottom: 1px solid #ddd;
+    align-items: center;
+    padding: 0 10px;
+}
+.done-btn {
+    background-color: #68c068;
+    color: #fff;
+    border: 1px solid ;
+    padding: 5px 10px;
+    border-radius: 3px;
+    position: absolute;
+    right: 535px;
+  }
+  .task-text{
+    color: #3f3fe0;
+  }
+  .delete-btn {
+    background-color: red;
+    color: #fff;
+    border: 1px solid ;
+    padding: 5px 10px;
+    border-radius: 3px;
+    position: absolute;
+    right: 455px;
+  }
+  .done-active {
+    background-color: blue;
+    color: #fff;
+  } */
